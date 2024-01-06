@@ -7,6 +7,8 @@ These are my notes for the lecture 'from membrane to brain'. Hopefully I will up
 The notes don't follow a certain style. It's just what I put together after the lectures from slides and my personal handwritten notes. I try to organize it somehow and make the notes understandable, but no guaranties.
 On the bottom of each note, there is a section called 'Flashcards'. Those are the questions I learn with in a Flashcard style. You can copy those or if you use Obsidian for spaced repetition learning, I can also give you the markdown files privately, just hit me up.
 
+Lightly coloured links go to 404. Those are notes, that I have not published yet. There is a preview, if you hover over a link.
+
 ###### disclaimer
 When you use these notes, you are on your own path. I take no responsibility for your grade. After the exam I will make the notes private again.
 
