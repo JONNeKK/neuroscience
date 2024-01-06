@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/from-membrane-to-brain/","tags":["uni/fmb","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/0-inbox/from-membrane-to-brain/","tags":["uni/fmb","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 lectures
