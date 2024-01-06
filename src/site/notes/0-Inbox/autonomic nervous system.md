@@ -20,7 +20,7 @@ Most body function that we don't consciously control, is controlled by the auton
 There are three main structures. The first two kinda work together, the third is just for digestion. control centres are the connection to the brain
 - [[0-Inbox/(para)sympathetic division#sympathetic division\|(para)sympathetic division#sympathetic division]] → peripheral
 - [[0-Inbox/(para)sympathetic division#parasympathetic division\|(para)sympathetic division#parasympathetic division]] → antagonist to the sympathetic division; also peripheral
-- [[enteric division\|enteric division]] → gastrointestinal system; that one is peripheral as well
+- [[0-Inbox/enteric nervous system\|enteric nervous system]] → gastrointestinal system; that one is peripheral as well
 - [[0-Inbox/control centres\|control centres]] → hypothalamus/brainstem of the [[central nervous system\|central nervous system]].
 
 ### Flashcards
