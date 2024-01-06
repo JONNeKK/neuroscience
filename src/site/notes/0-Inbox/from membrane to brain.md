@@ -16,4 +16,3 @@ lectures
 - [[auditory system - Rosskothen-Kuhl\|auditory system - Rosskothen-Kuhl]]
 - [[0-Inbox/autonomous nervous system - Egert\|autonomous nervous system - Egert]]
 
-auditory system - Rosskothen-Kuhl
