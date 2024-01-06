@@ -5,6 +5,7 @@
 ###### topics
 - [[0-Inbox/autonomic nervous system\|autonomic nervous system]]
 - [[0-Inbox/(para)sympathetic division\|(para)sympathetic division]]
+- [[0-Inbox/enteric nervous system\|enteric nervous system]]
 - [[0-Inbox/control centres\|control centres]]
 - [[0-Inbox/hypothalamus\|hypothalamus]]
 - [[0-Inbox/regulating bodily functions\|regulating bodily functions]]
