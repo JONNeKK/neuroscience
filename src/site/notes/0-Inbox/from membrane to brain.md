@@ -28,4 +28,4 @@ When you use these notes, you are on your own path. I take no responsibility for
 
 
 ###### additionals
-[[0-Inbox/old exam questions\|old exam questions]]
+[[0-Inbox/old exam questions\|old exam questions]] - rudimentary answers
