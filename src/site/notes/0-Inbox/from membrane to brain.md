@@ -26,3 +26,6 @@ When you use these notes, you are on your own path. I take no responsibility for
 - [[auditory system - Rosskothen-Kuhl\|auditory system - Rosskothen-Kuhl]]
 - [[0-Inbox/autonomous nervous system - Egert\|autonomous nervous system - Egert]]
 
+
+###### additionals
+[[0-Inbox/old exam questions\|old exam questions]]
