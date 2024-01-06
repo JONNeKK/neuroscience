@@ -7,6 +7,8 @@
 - [[0-Inbox/(para)sympathetic division\|(para)sympathetic division]]
 - [[0-Inbox/control centres\|control centres]]
 - [[0-Inbox/hypothalamus\|hypothalamus]]
+- [[0-Inbox/regulating bodily functions\|regulating bodily functions]]
+- [[0-Inbox/homeostatic control\|homeostatic control]]
 
 
 ### Flashcards
