@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/from-membrane-to-brain/","tags":["uni/fmb","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/0-inbox/from-membrane-to-brain/","tags":["uni/fmb","gardenEntry"]}
 ---
 
 lectures
@@ -14,5 +14,6 @@ lectures
 - [[vision - Reiff\|vision - Reiff]]
 - [[basal ganglia - Diester\|basal ganglia - Diester]]
 - [[auditory system - Rosskothen-Kuhl\|auditory system - Rosskothen-Kuhl]]
+- [[0-Inbox/autonomous nervous system - Egert\|autonomous nervous system - Egert]]
 
 auditory system - Rosskothen-Kuhl
