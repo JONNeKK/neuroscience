@@ -4,7 +4,7 @@
 
 Between the layers of the intestinal wall lie the myenteric plexus  and submucous plexus. Those form a minor brain in the bowels. 
 
-It operates separately from the [[central nervous system\|central nervous system]].
+It operates separately from the [[0-Inbox/central nervous system\|central nervous system]].
 
 ### controls
 - intestinal movement
