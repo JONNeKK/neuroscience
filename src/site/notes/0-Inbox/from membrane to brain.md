@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/from-membrane-to-brain/","tags":["uni/fmb","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/0-inbox/from-membrane-to-brain/","tags":["uni/fmb","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 These are my notes for the lecture 'from membrane to brain'. Hopefully I will update them, as I write my own notes.
@@ -21,7 +21,7 @@ When you use these notes, you are on your own path. I take no responsibility for
 - [[0-Inbox/genes and gene regulation - Straw\|genes and gene regulation - Straw]]
 - [[0-Inbox/neural development - Driever\|neural development - Driever]]
 - [[0-Inbox/somatosensory system - Egert\|somatosensory system - Egert]]
-- [[vision - Reiff\|vision - Reiff]]
+- [[0-Inbox/vision - Reiff\|vision - Reiff]]
 - [[0-Inbox/basal ganglia - Diester\|basal ganglia - Diester]]
 - [[auditory system - Rosskothen-Kuhl\|auditory system - Rosskothen-Kuhl]]
 - [[0-Inbox/autonomous nervous system - Egert\|autonomous nervous system - Egert]]
