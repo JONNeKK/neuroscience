@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/from-membrane-to-brain/","tags":["uni/fmb","gardenEntry"]}
+{"dg-publish":true,"permalink":"/0-inbox/from-membrane-to-brain/","tags":["uni/fmb","gardenEntry","gardenEntry"]}
 ---
 
 These are my notes for the lecture 'from membrane to brain'. Hopefully I will update them, as I write my own notes.
@@ -16,11 +16,11 @@ When you use these notes, you are on your own path. I take no responsibility for
 - [[0-Inbox/signalling in the nervous system - Mehring\|signalling in the nervous system - Mehring]]
 - [[biophysics of neural systems - Leibold\|biophysics of neural systems - Leibold]]
 - [[synaptic plasticity - Metzger\|synaptic plasticity - Metzger]]
-- [[anatomy - Haas\|anatomy - Haas]]
+- [[0-Inbox/anatomy - Haas\|anatomy - Haas]]
 - [[motor control - Mehring\|motor control - Mehring]]
-- [[genes and gene regulation - Straw\|genes and gene regulation - Straw]]
-- [[neural development - Driever\|neural development - Driever]]
-- [[somatosensory system - Egert\|somatosensory system - Egert]]
+- [[0-Inbox/genes and gene regulation - Straw\|genes and gene regulation - Straw]]
+- [[0-Inbox/neural development - Driever\|neural development - Driever]]
+- [[0-Inbox/somatosensory system - Egert\|somatosensory system - Egert]]
 - [[vision - Reiff\|vision - Reiff]]
 - [[basal ganglia - Diester\|basal ganglia - Diester]]
 - [[auditory system - Rosskothen-Kuhl\|auditory system - Rosskothen-Kuhl]]
