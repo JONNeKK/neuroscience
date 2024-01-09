@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/from-membrane-to-brain/","tags":["uni/fmb","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/0-inbox/from-membrane-to-brain/","tags":["uni/fmb","gardenEntry"]}
 ---
 
 These are my notes for the lecture 'from membrane to brain'. Hopefully I will update them, as I write my own notes.
@@ -12,7 +12,7 @@ Lightly coloured links go to 404. Those are notes, that I have not published yet
 ###### disclaimer
 When you use these notes, you are on your own path. I take no responsibility for your grade. After the exam I will make the notes private again.
 
-###### lectures
+### from membrane to brain
 - [[0-Inbox/signalling in the nervous system - Mehring\|signalling in the nervous system - Mehring]]
 - [[biophysics of neural systems - Leibold\|biophysics of neural systems - Leibold]]
 - [[synaptic plasticity - Metzger\|synaptic plasticity - Metzger]]
@@ -29,3 +29,7 @@ When you use these notes, you are on your own path. I take no responsibility for
 
 ###### additionals
 [[0-Inbox/old exam questions\|old exam questions]] - rudimentary answers
+
+### Quantitative Methods 1
+- [[Fourier\|Fourier]]
+- 
