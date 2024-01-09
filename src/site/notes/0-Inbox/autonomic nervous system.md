@@ -21,7 +21,7 @@ There are three main structures. The first two kinda work together, the third is
 - [[0-Inbox/(para)sympathetic division#sympathetic division\|(para)sympathetic division#sympathetic division]] → peripheral
 - [[0-Inbox/(para)sympathetic division#parasympathetic division\|(para)sympathetic division#parasympathetic division]] → antagonist to the sympathetic division; also peripheral
 - [[0-Inbox/enteric nervous system\|enteric nervous system]] → gastrointestinal system; that one is peripheral as well
-- [[0-Inbox/control centres\|control centres]] → hypothalamus/brainstem of the [[central nervous system\|central nervous system]].
+- [[0-Inbox/control centres\|control centres]] → hypothalamus/brainstem of the [[0-Inbox/central nervous system\|central nervous system]].
 
 ### Flashcards
 What are the three main structures in the ANS located peripherally :: (para)sympathetic division and enteric division
