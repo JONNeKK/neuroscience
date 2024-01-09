@@ -11,13 +11,13 @@ The key question is: What tells these cells to become CNS?
 [[0-Inbox/neurulation\|neurulation]]
 [[0-Inbox/neural patterning\|neural patterning]]
 
-
+THE LAST LECTURE IS STILL MISSING
 
 
 
 # Flashcards
 Where does the CNS form in a frog embryo? :: The CNS forms from cells located on the dorsal side of the animal cap of the gastrula embryo
-###### problem sheet
+###### problem sheet → not all questions answered yet
 Please explain the mechanism of neurulation! :: The formation of the neural tube out of the neural sheet. The sheet is pushed inwards and folds to form a tube underneath the epidermis. 
 Does the neural anlage formed during neural induction have anterior or posterior CNS characteristics? :: Yes due to the fundamental asymmetry of the animal cap there is a difference. This is e.g. the formation of the neural tube as primary or secondary neurlation
 What are the fundamentally different forms of neurulation? :: Primary: The folding of the neural plate to form a tube; Secondary: The hollowing of an initial solid rod of cells.
