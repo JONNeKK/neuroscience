@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/from-membrane-to-brain/","tags":["uni/fmb","gardenEntry"]}
+{"dg-publish":true,"permalink":"/0-inbox/from-membrane-to-brain/","tags":["uni/fmb","gardenEntry","gardenEntry"]}
 ---
 
 These are my notes for the lecture 'from membrane to brain'. Hopefully I will update them, as I write my own notes.
