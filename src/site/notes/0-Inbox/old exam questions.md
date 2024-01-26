@@ -14,21 +14,21 @@
 - Both peak after the threshold
 
 ### anatomy
-###### question 4
+###### question 1
 - olfactory (temporal lobe)
 - auditory (temporal lobe)
 - visual (occipital lobe)
 - somatosensory (parietal lobe)
 - taste (parietal lobe)
 
-###### question 5
+###### question 2
 - biggest part of the brain divided into different lobes (frontal, temporal, occipital, parietal) in the telencephalon.
 - most developed
 - most layered (6 (Are the functions meant by describing the neocortex?))
 - used in higher order brain functions (e.g. sensory perception, spatial reasoning, cognition and generation of motor commands and language)
 - 80% excitatory, 20% inhibitory neurons
 
-###### question 6
+###### question 3
 - in the diencephalon
 - switchboard of information
 - Gate to consciousness
@@ -36,12 +36,13 @@
 - Regulation of consciousness, sleep and alertness
 - every sensory system includes a thalamic nuclei
 
-###### question 7
+###### question 4
 - lateral and third ventricle: forebrain
 - cerebral aqueduct: midbrain
 - fourth ventricle: hindbrain
 - central canal: spinal cord
 
+### biophysics
 ###### question 8
 - Brownian motion: all particles have thermal energy and move randomly → diffusion
 - Fick's law describes this movement integrated over all particles for different concentrations.
