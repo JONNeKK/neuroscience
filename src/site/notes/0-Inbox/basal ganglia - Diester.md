@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/0-inbox/basal-ganglia-diester/","tags":["uni/fmb/basalGanglia"]}
 ---
 
-Additionally important for this lecture: [[0-Inbox/dopamine\|dopamine]].
+Additionally important for this lecture: [[7-notes/knowledge/dopamine\|dopamine]].
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/0-inbox/basal-ganglia/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -43,6 +43,11 @@ Draw the STOP-circuit in basal ganglia with +/- signs and thin and thick arrows 
 What are the main functions of basal ganglia? :: movement generation (selection, initiation, suppression and execution (as well as approve and reject motor commands)) - decision making/learning (evaluating risk/reward, forming habits/planning tasks/learning through emotions and motivation) - reward and addiction (because of reinforcement learning)
 Where does dopamine play a role in basal ganglia? :: In substantia nigra pars compacta
 What dopamine receptor families goes to which neural circuit in basal ganglia
+What causes Parkinsons disease? :: Death of dopamine cells from SNc
+What behaviour is biased in Parkinson disease? :: it is biased towards NoGo
+What are Parkinson disease symptoms? :: bradykinesia, akinesia, tremor and rigidity
+What is akinesia? :: loss or impairment of voluntary movement
+What is bradykinesia? :: slowness of movement
 
 </div></div>
 
