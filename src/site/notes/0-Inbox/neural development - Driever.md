@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/0-inbox/neural-development-driever/","tags":["uni/fmb/dev"]}
 ---
 
-This is basically how the [[0-Inbox/central nervous system\|CNS]] is formed during development. 
+This is basically how the [[7-notes/knowledge/central nervous system\|CNS]] is formed during development. 
 In a frog, this is done after the formation of the Blastula (A development stage of the embryo, it contains mainly the same kind of cells). The CNS forms from cells located on the dorsal side of the animal cap of the gastrula embryo (The stage after the Blastula):
 ![neural development - Driever_dev.png](/img/user/7-notes/knowledge/images/neural%20development%20-%20Driever_dev.png)
 The key question is: What tells these cells to become CNS?
 
-[[0-Inbox/neural induction\|neural induction]]
-[[0-Inbox/neurulation\|neurulation]]
-[[0-Inbox/neural patterning\|neural patterning]]
+[[7-notes/knowledge/neural induction\|neural induction]]
+[[7-notes/knowledge/neurulation\|neurulation]]
+[[7-notes/knowledge/neural patterning\|neural patterning]]
 
 THE LAST LECTURE IS STILL MISSING
 
