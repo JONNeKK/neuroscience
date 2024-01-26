@@ -3,5 +3,5 @@
 ---
 
 # exam importance
-- The [[0-Inbox/eye\|eye]].
+- The [[7-notes/knowledge/eye\|eye]].
 - 
