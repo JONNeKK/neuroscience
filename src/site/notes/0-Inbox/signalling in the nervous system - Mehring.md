@@ -3,22 +3,22 @@
 ---
 
 ###### topics lecture I
-- [[0-Inbox/neuronal cells\|neuronal cells]]
-- [[0-Inbox/neuron#structure\|neuron#structure]]
-- [[0-Inbox/neuron#polarity\|neuron#polarity]]
-- [[0-Inbox/knee-jerk reflex\|knee-jerk reflex]]
-- [[0-Inbox/electrical signalling\|electrical signalling]]
-- [[0-Inbox/local graded potential\|local graded potential]] vs [[0-Inbox/action potential\|action potential]]
-- [[0-Inbox/neuronal recording\|neuronal recording]]
-- [[neuronal tuning\|neuronal tuning]] and [[0-Inbox/neuron#tuning\|neuron#tuning]]
-- [[0-Inbox/electrical signalling#Potential Questions\|electrical signalling#Potential Questions]]
-- [[0-Inbox/ion channel#What they are\|ion channel#What they are]]
-- [[0-Inbox/ion channel#patch clamp recording\|ion channel#patch clamp recording]]
-- [[0-Inbox/ion channel#modes of channel activation\|ion channel#modes of channel activation]]
+- [[7-notes/knowledge/neuronal cells\|neuronal cells]]
+- [[7-notes/knowledge/neuron#structure\|neuron#structure]]
+- [[7-notes/knowledge/neuron#polarity\|neuron#polarity]]
+- [[7-notes/knowledge/knee-jerk reflex\|knee-jerk reflex]]
+- [[7-notes/knowledge/electrical signalling\|electrical signalling]]
+- [[7-notes/knowledge/local graded potential\|local graded potential]] vs [[7-notes/knowledge/action potential\|action potential]]
+- [[7-notes/knowledge/neuronal recording\|neuronal recording]]
+- [[neuronal tuning\|neuronal tuning]] and [[7-notes/knowledge/neuron#tuning\|neuron#tuning]]
+- [[7-notes/knowledge/electrical signalling#Potential Questions\|electrical signalling#Potential Questions]]
+- [[7-notes/knowledge/ion channel#What they are\|ion channel#What they are]]
+- [[7-notes/knowledge/ion channel#patch clamp recording\|ion channel#patch clamp recording]]
+- [[7-notes/knowledge/ion channel#modes of channel activation\|ion channel#modes of channel activation]]
 ###### topics lecture II
-- [[0-Inbox/ion channel#effect of membrane potential on channel current\|ion channel#effect of membrane potential on channel current]]
-- [[0-Inbox/equilibrium potential\|equilibrium potential]]
-- [[0-Inbox/nernst equation\|nernst equation]]
+- [[7-notes/knowledge/ion channel#effect of membrane potential on channel current\|ion channel#effect of membrane potential on channel current]]
+- [[7-notes/knowledge/equilibrium potential\|equilibrium potential]]
+- [[7-notes/knowledge/nernst equation\|nernst equation]]
 - NOT FINISHED
 
 ###### main messages (massively simplified)
