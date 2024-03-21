@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-maps-of-content/lectures/from-membrane-to-brain/","tags":["uni/fmb","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/4-maps-of-content/lectures/from-membrane-to-brain/","tags":["uni/fmb","gardenEntry"]}
 ---
 
 These are my notes for the lecture 'from membrane to brain'. Hopefully I will update them, as I write my own notes.
@@ -31,5 +31,5 @@ When you use these notes, you are on your own path. I take no responsibility for
 [[4-maps of content/lectures/lecture - from membrane to braine/old exam questions\|old exam questions]] - rudimentary answers
 
 ### Quantitative Methods 1
-- [[Fourier\|Fourier]]
+- [[0-Inbox/Fourier\|Fourier]]
 - 
